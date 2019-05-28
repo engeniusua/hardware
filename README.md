@@ -1,4 +1,4 @@
-<p align="center"><a href="http://engeniusteam.web.ua.pt/" target="_blank"><img height="60" src="https://github.com/engeniusua/hardware/blob/master/docs/assets/engeniusLogo.png" alt="engenius-logo"></a>
+<p align="center"><a href="http://engeniusteam.web.ua.pt/" target="_blank"><img height="60" src="https://github.com/engeniusua/pcb-warehouse/blob/master/docs/assets/engeniusLogo.png?raw=true" alt="engenius-logo"></a>
 </p>
 
 <p align="center">This mono-repo contains all Schematics and PCBs used by Engenius for development, prototyping and production of the diferents networks, instrumentation and actuation systems
@@ -7,7 +7,7 @@
 
 | Name  | Descripion | Last Updated | Tested
 | ------------- | ------------- | ------------- | ------------- |
-| [__can-dev-board-v1.0__](https://github.com/engenius/hardware/tree/master/hardware/can-dev-board)  |  Development board used to prototype the can network | 28 May 2019 | :red_circle:
+| [__can-dev-board-v1.0__](https://github.com/engenius/pcb-warehouse/tree/master/hardware/can-dev-board)  |  Development board used to prototype the can network | 28 May 2019 | :red_circle:
 
 ## Contributing
 
