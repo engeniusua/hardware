@@ -5,9 +5,9 @@
 
 ## Boards
 
-| Name  | Descripion | Last Updated | Tested
-| ------------- | ------------- | ------------- | ------------- |
-| [__can-dev-board-v1.0__](https://github.com/engeniusua/pcb-warehouse/tree/master/hardware/can-dev-board/v1.0)  |  Development board used to prototype the can network | 28 May 2019 | :red_circle:
+| Name | Descripion | Last Updated |
+|------|------------|--------------|
+| [__can-dev-board__](https://github.com/engeniusua/pcb-warehouse/tree/master/hardware/can-dev-board) | Development board used to prototype the can network | 28 May 2019  |
 
 ## Contributing
 
